@@ -1,3 +1,3 @@
 import { Console } from "as-wasi/assembly";
 
-Console.log("Hello, world 2!");
+Console.log("Hello, world 3!");
